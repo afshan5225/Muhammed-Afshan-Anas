@@ -1,13 +1,29 @@
-<h1 align="center">Hi 👋, I'm Muhammed Afshan Anas</h1>
-<h3 align="center">An AI enthusiast!</h3>
+# Muhammed Afshan Anas
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammedafshananas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammedafshananas/" height="30" width="40" /></a>
-</p>
-#Ai projects
+# Summary
+As a recent MSc Data Science graduate with strong expertise in data analytics and machine learning, I am eager to apply my skills to develop innovative solutions and drive impactful results. Passionate about using data-driven insights to solve complex challenges, I aim to contribute effectively to organizational growth and technological advancements.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+# Projects
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=afshan5225&show_icons=true&locale=en&layout=compact" alt="afshan5225" /></p>
+## ML Projects
+1. [Automated Fetal Health Analyser](https://github.com/afshan5225/Automated-Fetal-Health-Analyser)
+2. [Twitter Sentiment Analysis](https://github.com/afshan5225/Twitter-sentiment-analysis)
+3. [IMDb Dataset Analysis Using SQL and Python](https://github.com/afshan5225/IMDb-Dataset-Analysis-Using-SQL-and-Python)
+4. [Web Scraping Academy Award Winning Films](https://github.com/afshan5225/Web-Scraping-Academy-Award-Winning-Films)
+5. [Excel Data Analysis Project - Billionaire Dataset](https://github.com/afshan5225/Billionaire-Dataset-analysis-using-excel)
+6. [House Price Prediction](https://github.com/afshan5225/House-Price-Prediction)
+7. [Sales Dashboard](https://github.com/afshan5225/Sales-Dashboard)
+8. [Diabetes Prediction](https://github.com/afshan5225/Diabetes-Prediction)
+9. [Car Price Prediction Using Decision Tree](https://github.com/afshan5225/Car-price-prediciton)
+10. [Titanic Survival Prediction](https://github.com/afshan5225/Titanic-Survival-dataset)
+11. [Spotify Chat Bot](https://github.com/afshan5225/Spotify-Chatbot)
+12. [Credit Card Fraud Detection](https://github.com/afshan5225/Credit-card-fraud-detection)
+13. [Market Basket Analysis](https://github.com/afshan5225/Market-basket-analysis)
+14. [Customer Segmentation](https://github.com/afshan5225/Customer-Segmentation)
+
+## Deep Learning Projects
+15. [Handwritten Digit Detection using Artificial Neural Networks](https://github.com/afshan5225/Handwritten-digits-detection-using-ANN)
+
+</div>
+
