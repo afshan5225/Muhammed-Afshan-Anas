@@ -29,7 +29,8 @@ As a recent MSc Data Science graduate with strong expertise in data analytics an
 ## Deep Learning Projects
 16. [Handwritten Digit Detection using Artificial Neural Networks](https://github.com/afshan5225/Handwritten-digits-detection-using-ANN)
 17. [CNN Image Classification: Cats vs Dogs](https://github.com/afshan5225/Image-classification-using-CNN/tree/main)
+18. [Auto Encoder on Hand written digits](https://github.com/afshan5225/MNIST-AUTOENCODER/tree/main)
 ## Gen AI Projects
-18. [Cold Email Generator](https://github.com/afshan5225/Cold-email-generator)
+19. [Cold Email Generator](https://github.com/afshan5225/Cold-email-generator)
 </div>
 
