@@ -20,18 +20,19 @@ As a recent MSc Data Science graduate with strong expertise in data analytics an
 11. [Credit Card Fraud Detection](https://github.com/afshan5225/Credit-card-fraud-detection)
 12. [Market Basket Analysis](https://github.com/afshan5225/Market-basket-analysis)
 13. [Customer Segmentation](https://github.com/afshan5225/Customer-Segmentation)
+14. ['Movie Recommendation System](https://github.com/afshan5225/Movie_recommendation_system/tree/main)
 
 
 ## Tableau & Excel Projects
-14. [Excel Data Analysis Project - Billionaire Dataset](https://github.com/afshan5225/Billionaire-Dataset-analysis-using-excel)
-15.  [Sales Dashboard](https://github.com/afshan5225/Sales-Dashboard)
+15. [Excel Data Analysis Project - Billionaire Dataset](https://github.com/afshan5225/Billionaire-Dataset-analysis-using-excel)
+16.  [Sales Dashboard](https://github.com/afshan5225/Sales-Dashboard)
 
 ## Deep Learning Projects
-16. [Handwritten Digit Detection using Artificial Neural Networks](https://github.com/afshan5225/Handwritten-digits-detection-using-ANN)
-17. [CNN Image Classification: Cats vs Dogs](https://github.com/afshan5225/Image-classification-using-CNN/tree/main)
-18. [Auto Encoder on Hand written digits](https://github.com/afshan5225/MNIST-AUTOENCODER/tree/main)
-19. [Face detection using OpenCV python](https://github.com/afshan5225/Face-detection-using-opencv---python/tree/main)
+18. [Handwritten Digit Detection using Artificial Neural Networks](https://github.com/afshan5225/Handwritten-digits-detection-using-ANN)
+19. [CNN Image Classification: Cats vs Dogs](https://github.com/afshan5225/Image-classification-using-CNN/tree/main)
+20. [Auto Encoder on Hand written digits](https://github.com/afshan5225/MNIST-AUTOENCODER/tree/main)
+21. [Face detection using OpenCV python](https://github.com/afshan5225/Face-detection-using-opencv---python/tree/main)
 ## Gen AI Projects
-20. [Cold Email Generator](https://github.com/afshan5225/Cold-email-generator)
+22. [Cold Email Generator](https://github.com/afshan5225/Cold-email-generator)
 </div>
 
