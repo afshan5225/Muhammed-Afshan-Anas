@@ -39,6 +39,8 @@ As a recent MSc Data Science graduate with strong expertise in data analytics an
 24. [Cold Email Generator](https://github.com/afshan5225/Cold-email-generator)
 ## Block Chain projects
 25. [Block chain Messenger](https://github.com/afshan5225/Block-chain-messenger-/tree/main)
+## LLM projects
+25. [LegEX]([https://github.com/afshan5225/Block-chain-messenger-/tree/main](https://github.com/afshan5225/LegEX))
 
 </div>
 
