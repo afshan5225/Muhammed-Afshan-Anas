@@ -37,6 +37,9 @@ As a recent MSc Data Science graduate with strong expertise in data analytics an
 23. [Deep fake using GAN](https://github.com/afshan5225/deep-fake/tree/main)
 ## Gen AI Projects
 24. [Cold Email Generator](https://github.com/afshan5225/Cold-email-generator)
+## Block Chain projects
+25. [Block chain Messenger](https://github.com/afshan5225/Block-chain-messenger-/tree/main)
+
 </div>
 ## Block Chain projects
-25. [Block chain Messenger]()
+25 [Block chain Messenger](https://github.com/afshan5225/Block-chain-messenger-/tree/main)
