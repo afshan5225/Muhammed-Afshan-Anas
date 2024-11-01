@@ -38,4 +38,5 @@ As a recent MSc Data Science graduate with strong expertise in data analytics an
 ## Gen AI Projects
 24. [Cold Email Generator](https://github.com/afshan5225/Cold-email-generator)
 </div>
-
+## Block Chain projects
+25. [Block chain Messenger]()
