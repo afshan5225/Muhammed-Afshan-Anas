@@ -40,7 +40,7 @@ As a recent MSc Data Science graduate with strong expertise in data analytics an
 ## Block Chain projects
 25. [Block chain Messenger](https://github.com/afshan5225/Block-chain-messenger-/tree/main)
 ## LLM projects
-25. [LegEX](https://github.com/afshan5225/Block-chain-messenger-/tree/main](https://github.com/afshan5225/LegEX )
+25. [LegEX](https://github.com/afshan5225/LegEX)
 
 </div>
 
