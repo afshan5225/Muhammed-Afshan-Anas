@@ -10,7 +10,7 @@ Full-Stack Web Developer (MERN Stack) with hands-on experience in building respo
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### 1. [🛒 MERN E-Commerce Website](https://github.com/afshan5225/MERN-ECOMMERCE-Project-for-resume)
 > Full-featured online shopping platform with cart, authentication, product management, and admin functionality.
